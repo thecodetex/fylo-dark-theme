@@ -24,7 +24,6 @@ I have created this website in a hurry so I'd be glad to know your opinions and 
 
 To contact me you can visit my website [https://www.shubhammukh.tk/](https://www.shubhammukh.tk/).
 
-# Other Websites and Services
-
-[Live Chat Website](https://www.livechatbytech.tk)
+# Social
 [Youtube](https://www.youtube.com/channel/UCRWxkcKlKLkUyO5I5VlQivg)
+[Discord](https://discord.gg/Ts36PasXEx)
