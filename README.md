@@ -26,4 +26,4 @@ To contact me you can visit my website [https://thecodetex.vercel.app/](https://
 
 # Social
 [Youtube](https://www.youtube.com/channel/UCRWxkcKlKLkUyO5I5VlQivg)
-[Discord](https://discord.gg/Ts36PasXEx)
+[Discord](https://discord.gg/2JAhVvsPkm)
